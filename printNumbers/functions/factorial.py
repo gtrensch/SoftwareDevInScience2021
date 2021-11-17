@@ -23,6 +23,7 @@ import math
 
 def Factorial(n):
     '''
+    Calculate the factorial
     :param n:  Operand
     :return:   n!
     '''
