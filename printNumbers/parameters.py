@@ -21,7 +21,6 @@
 
 #
 # Class to process and store program parameters.
-#
 
 CONST_VERSION = 'V1.0'
 CONST_VERSION_STRING = '+ + PrintNumbers ' + CONST_VERSION + ' (Software Development in Science 2021) + +'
