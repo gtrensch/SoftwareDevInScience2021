@@ -27,3 +27,6 @@ def Factorial(n):
     :return:   n!
     '''
     return(math.factorial(n))
+
+#test
+print(Factorial(5))
