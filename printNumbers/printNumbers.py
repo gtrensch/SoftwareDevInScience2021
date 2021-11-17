@@ -40,7 +40,7 @@ from parameters import *
 from functions.fibonacci import *
 from functions.factorial import *
 
-#
+# CHANGE
 # FUNCTION TABLE
 #
 functionTable = { CONST_FUNC_CODE_FIBONACCI : FibonacciSequence,
