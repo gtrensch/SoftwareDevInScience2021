@@ -21,9 +21,23 @@
 
 import math
 
+
 def Factorial(n):
-    '''
+    """
+    A fuction to retun the factorial of a number
+
     :param n:  Operand
     :return:   n!
-    '''
-    return(math.factorial(n))
+    """
+    return math.factorial(n)
+
+
+def Power(n, m):
+    """
+    A function to retun the m power of the n number
+
+    :param n:  A number which represents the base
+    :param m:  A number which represents the exponent
+    :return:   n**m
+    """
+    return math.pow(n, m)
