@@ -24,21 +24,21 @@
 
      **Solution:**
      
-     ![](https://github.com/gtrGitHub/SoftwareDevInScience2021/blob/main/exercises/figures/projects_01.png)
+     ![](https://github.com/gtrensch/SoftwareDevInScience2021/blob/main/exercises/figures/projects_01.png)
      
      ----
 
-     ![](https://github.com/gtrGitHub/SoftwareDevInScience2021/blob/main/exercises/figures/projects_02.png)
+     ![](https://github.com/gtrensch/SoftwareDevInScience2021/blob/main/exercises/figures/projects_02.png)
      
      
 3. Create a ToDo list with at least two activity cards for the implementation of a unit test and a new function. The unit test should describe test cases corresponding to the function you are planning to implement.
 
-     ![](https://github.com/gtrGitHub/SoftwareDevInScience2021/blob/main/exercises/figures/projects_03.png)
+     ![](https://github.com/gtrensch/SoftwareDevInScience2021/blob/main/exercises/figures/projects_03.png)
      
 
 4. (optional) Enable _'Issues'_ under _'repository settings'_ to integrate lightweight task tracking into your repository.
 
-     ![](https://github.com/gtrGitHub/SoftwareDevInScience2021/blob/main/exercises/figures/enable_issues.png)
+     ![](https://github.com/gtrensch/SoftwareDevInScience2021/blob/main/exercises/figures/enable_issues.png)
      
 
 ## Exercise IV: Test-Driven Development. Work with a partner and form a two-developers team!
@@ -100,7 +100,7 @@
           
      ----
                
-     ![](https://github.com/gtrGitHub/SoftwareDevInScience2021/blob/main/exercises/figures/feature_pull_request.png)
+     ![](https://github.com/gtrensch/SoftwareDevInScience2021/blob/main/exercises/figures/feature_pull_request.png)
           
 
 9. Developer A: Code-review the pull request and merge it.
