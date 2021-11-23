@@ -8,7 +8,7 @@
 
       **Solution:** 
       
-      ![](https://github.com/gtrGitHub/SoftwareDevInScience2021/blob/main/exercises/figures/fork.png)
+      ![](https://github.com/gtrensch/SoftwareDevInScience2021/blob/main/exercises/figures/fork.png)
       
 2. Create a clone of the forked (your) workshop GitHub repository on your local machine.
 
@@ -62,7 +62,7 @@
 
       **Solution:** 
       
-      ![](https://github.com/gtrGitHub/SoftwareDevInScience2021/blob/main/exercises/figures/pull_request.png)
+      ![](https://github.com/gtrensch/SoftwareDevInScience2021/blob/main/exercises/figures/pull_request.png)
       
 
 ## Exercise II: Work in groups. Choose a developer to collaborate with!
@@ -83,23 +83,23 @@
 
       **Solution:**
       
-      ![](https://github.com/gtrGitHub/SoftwareDevInScience2021/blob/main/exercises/figures/pull_request.png)
+      ![](https://github.com/gtrensch/SoftwareDevInScience2021/blob/main/exercises/figures/pull_request.png)
       
       ----
             
-      ![](https://github.com/gtrGitHub/SoftwareDevInScience2021/blob/main/exercises/figures/create_pull_request.png)
+      ![](https://github.com/gtrensch/SoftwareDevInScience2021/blob/main/exercises/figures/create_pull_request.png)
 
 5. Let your collaborator review your pull request using GitHub's review workflow.
 
       **Solution:** 
       
-      ![](https://github.com/gtrGitHub/SoftwareDevInScience2021/blob/main/exercises/figures/review_pull_request.png)
+      ![](https://github.com/gtrensch/SoftwareDevInScience2021/blob/main/exercises/figures/review_pull_request.png)
 
 6. Let your collaborator merge your pull request.
 
       **Solution:** 
 
-      ![](https://github.com/gtrGitHub/SoftwareDevInScience2021/blob/main/exercises/figures/merge_pull_request.png)
+      ![](https://github.com/gtrensch/SoftwareDevInScience2021/blob/main/exercises/figures/merge_pull_request.png)
 
 7. Let your collaborator issue a pull request against the project 'main'!
 
@@ -111,7 +111,7 @@
       
           gitk
 
-      ![](https://github.com/gtrGitHub/SoftwareDevInScience2021/blob/main/exercises/figures/gitk.png)
+      ![](https://github.com/gtrensch/SoftwareDevInScience2021/blob/main/exercises/figures/gitk.png)
 
 
 ## :+1: Hints ##
