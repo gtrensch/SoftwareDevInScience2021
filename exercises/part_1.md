@@ -1,6 +1,6 @@
 # GitHub Agile Workflow
 
-***In these exercises, we practice the basic GitHub workflow for contributing to a project.***
+***In these exercises we practice the basic GitHub workflow for contributing to a project.***
 
 ## Exercise I: Contribute to a Project
 
@@ -32,7 +32,7 @@
 
 7. Let your collaborator issue a pull request against the project 'main'!
 
-8. (optional) Use the graphical repository browser gitk to display the changes in the repository.
+8. (optional) Use the graphical repository browser 'gitk' to display the changes applied to your repository.
 
 ## :+1: Hints ##
 
